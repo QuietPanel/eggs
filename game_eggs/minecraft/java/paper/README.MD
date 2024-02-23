@@ -10,4 +10,4 @@ The minecraft server requires a single port for access (default 25565) but plugi
 
 | Port  | default |
 |-------|---------|
-| Game  | 25565   |
+| Game  | 19139   |
